@@ -38,7 +38,7 @@ $("document").ready(function(){
             
 
             default:
-                $("#logo").attr("src","four-seasons.gif");
+                $("#logo").attr("src","images/four-seasons.gif");
                 $("html").css("background-color","#fff");
                 $("#wear").attr("src","images/300x400.png");
                 $("#catch-copy").text("Outfitter for All Seasons!");
